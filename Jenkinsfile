@@ -1,7 +1,7 @@
 pipeline {
-  agent {label 'my_node}
+  agent {label 'my_node'}
   tools {
-      terraform 'terraform1.1.5'
+      terraform 'terraform'
   }
 
   stages {
