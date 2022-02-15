@@ -1,0 +1,21 @@
+-------------------- Auto-Git Log --------------------
+		Tue Feb 15 2022 11:49:46 GMT+0530 (India Standard Time)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/logs/log-15-1-2022-11-19-25.txt
+* .terraform.lock.hcl
+* ec2.tf
+* main.tf
+* output.tf
+* terraform.tfvars
+* variable.tf
+
+
+Deleted files:
+
+
+Renamed files:
